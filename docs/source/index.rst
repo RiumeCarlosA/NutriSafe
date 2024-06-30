@@ -1,4 +1,4 @@
-Bem Vindo a documentação de como montar uma infraestrutura de alta disponibildiade!
+Bem Vindo a documentação de como montar uma infraestrutura para aplicações
 ===================================
 
 cheque em :doc:`usage` informações para instalação do projeto.
